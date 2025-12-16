@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Spaghetti Carbonara",
+    "price": 18,
+    "image": "spaghetti.jpg",
+    "category": "italian",
+    "description": "Classic Italian pasta with creamy egg and cheese sauce, pancetta, and black pepper."
+  },
+ 
+  {
+    "name": "Chicken Biryani",
+    "price": 15,
+    "image": "pakistani1.jpg",
+    "category": "pakistani",
+    "description": "Fragrant basmati rice cooked with marinated chicken and aromatic spices."
+  },
+  
+  {
+    "name": "Dim Sum Platter",
+    "price": 16,
+    "image": "chinese1.jpg",
+    "category": "chinese",
+    "description": "Assorted steamed dumplings with a variety of fillings."
+  }
+  
+]
