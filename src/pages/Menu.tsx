@@ -9,7 +9,13 @@ import nihari from "../assets/nihari.jpg";
 import seekhkabab from "../assets/seekhkabab.jpg";
 import pizza from "../assets/pizza.jpg";
 import alfredo from "../assets/italian2.jpg";
-
+import peproni from "../assets/italian3.jpg";
+import lasagna from "../assets/italian4.jpg";
+import penne from "../assets/italian5.jpg";
+import chickenhandi from "../assets/pakistani4.jpg";
+import beef from "../assets/pakistani2.jpg";
+import polao from "../assets/pakistani5.jpg";
+import korma from "../assets/pakistani6.jpg";
 interface MenuItem {
   _id?: string;
   name: string;
@@ -28,6 +34,13 @@ const imageMap: Record<string, string> = {
   "pakistani1.jpg": pakistani1,
   "chinese1.jpg": chinese1,
   "italian2.jpg": alfredo,
+   "italian3.jpg": peproni,
+   "italian4.jpg": lasagna,
+   "italian5.jpg": penne,
+   "pakistani4.jpg": chickenhandi,
+   "pakistani2.jpg": beef,
+   "pakistani5.jpg": polao,
+   "pakistani6.jpg": korma,
   
   // add rest of your asset mappings here
 };
