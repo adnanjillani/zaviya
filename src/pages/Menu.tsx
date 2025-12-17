@@ -8,6 +8,7 @@ import chinese1 from "../assets/chinese1.jpg";
 import nihari from "../assets/nihari.jpg";
 import seekhkabab from "../assets/seekhkabab.jpg";
 import pizza from "../assets/pizza.jpg";
+import alfredo from "../assets/italian2.jpg";
 
 interface MenuItem {
   _id?: string;
@@ -26,6 +27,8 @@ const imageMap: Record<string, string> = {
   "pizza.jpg": pizza,
   "pakistani1.jpg": pakistani1,
   "chinese1.jpg": chinese1,
+  "italian2.jpg": alfredo,
+  
   // add rest of your asset mappings here
 };
 
